@@ -1,0 +1,2122 @@
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 56
+array(33) {
+  ["9wzvnqr931jl"]=>
+  array(2) {
+    ["name"]=>
+    string(9) "Manuel G."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(35) "Quantum fighter NUEVO Nintendo Nes "
+      ["date"]=>
+      string(11) "54441-05-20"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Gran vendedor. Productos protegidos y envío rápido."
+    }
+  }
+  ["ke65g2gq0pjo"]=>
+  array(2) {
+    ["name"]=>
+    string(13) "Manisero64 R."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(30) "Final Fantasy III Nintendo ds "
+      ["date"]=>
+      string(11) "54364-08-01"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Un placer hacer tratos con Fran, excelente vendedor. "
+    }
+  }
+  ["owzynkkorpj5"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "Odrak G."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(31) "Cool spot súper nintendo snes "
+      ["date"]=>
+      string(11) "52094-08-18"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(13) "De 10 en todo"
+    }
+  }
+  ["pevjrdl9l6k8"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "Logan .."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(25) "Turrican sega mega Drive "
+      ["date"]=>
+      string(11) "54210-07-11"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(38) "Todo perfecto, como siempre, gracias!!"
+    }
+  }
+  ["436emdreqnjd"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "Pedro G."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(36) "Juego nuevo de almacén nintendo nes"
+      ["date"]=>
+      string(11) "50672-06-04"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(32) "Todo perfecto. 100% recomendable"
+    }
+  }
+  ["qnzx5env2162"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "PITON P."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(25) "Battletoads Nintendo Nes "
+      ["date"]=>
+      string(11) "50044-05-19"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(18) "Excelente vebdedor"
+    }
+  }
+  ["g0j2w7ex7rjy"]=>
+  array(2) {
+    ["name"]=>
+    string(4) "Xavi"
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(24) "Ufouria Esp nintendo nes"
+      ["date"]=>
+      string(11) "51360-08-14"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(57) "Excelente vendedor. Buena comunicación. Muy recomendable"
+    }
+  }
+  ["ke65v2y882jo"]=>
+  array(2) {
+    ["name"]=>
+    string(9) "Daniel R."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(31) "Súper Mario Bros Nintendo Nes "
+      ["date"]=>
+      string(11) "53728-12-30"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(71) "Todo perfecto. Juegos en genial estado y funcionando. Muy recomendable."
+    }
+  }
+  ["ke65q2xyp06o"]=>
+  array(2) {
+    ["name"]=>
+    string(7) "Jlfa F."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(20) "Batman Nintendo Nes "
+      ["date"]=>
+      string(11) "53712-01-03"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(61) "Todo perfecto, usuario serio rápido, educado y recomendado. "
+    }
+  }
+  ["kmznlygqwyjn"]=>
+  array(2) {
+    ["name"]=>
+    string(11) "Xavi H.Q .."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(7) "Alien 3"
+      ["date"]=>
+      string(11) "48297-07-18"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(134) "Excelente Vendedor del Walapop!Si hubiera mas estrellas t ponia el doble .Serio .Puntual. Buena comunicación .1000×1000 recomendable"
+    }
+  }
+  ["qnzx5vvom162"]=>
+  array(2) {
+    ["name"]=>
+    string(6) "Quique"
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(16) "Super Mario Kart"
+      ["date"]=>
+      string(11) "48254-03-05"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      NULL
+    }
+  }
+  ["8ejkkwnmgyjx"]=>
+  array(2) {
+    ["name"]=>
+    string(9) "Sergio P."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(28) "Cd Robó Aleste mega cd sega"
+      ["date"]=>
+      string(11) "53430-03-12"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(98) "Muy amable todo muy proteguido impecable todo de 10 lo recomiendo 100% muchisimas gracias por todo"
+    }
+  }
+  ["4w67gevdg86x"]=>
+  array(2) {
+    ["name"]=>
+    string(10) "Víctor M."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(18) "Super mario 64 n64"
+      ["date"]=>
+      string(11) "48814-01-12"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(142) "Muy puntual con el envío. Hice la compra previo pago y sin problema alguno. Volvería a comprar un producto suyo. Fiable, honrado y atento. 
+"
+    }
+  }
+  ["qnzxyl5147j2"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "Jorge G."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(28) "Axelay súper Nintendo snes "
+      ["date"]=>
+      string(11) "53105-10-07"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(46) "Perfecto. Envío rapidísimo y buenos precios."
+    }
+  }
+  ["lqzmvw49ozvm"]=>
+  array(2) {
+    ["name"]=>
+    string(10) "Enrique M."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(20) "Super Double Dragon "
+      ["date"]=>
+      string(11) "47818-05-07"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(35) "Todo perfecto, vendedor recomendado"
+    }
+  }
+  ["9nz04wyr4rjo"]=>
+  array(2) {
+    ["name"]=>
+    string(11) "Retroman C."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(30) "Pokemon puzzle nintendo 64 N64"
+      ["date"]=>
+      string(11) "51300-11-22"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(6) "Top..."
+    }
+  }
+  ["08z8w8mn9lz3"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "Yeray R."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(35) "Silent hill leer ) playstation ps1 "
+      ["date"]=>
+      string(11) "52524-06-21"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(152) "Todo genial con Fran, seriedad y puntualidad en su máxima expresión. El artículo todavía conserva olor a nuevo, súper satisfecho. Hasta la próxima"
+    }
+  }
+  ["xpzpyq7wymz3"]=>
+  array(2) {
+    ["name"]=>
+    string(4) "Xavi"
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(40) "Súper Probotector súper Nintendo snes "
+      ["date"]=>
+      string(11) "52723-08-19"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(41) "Vendedor de 10, amable y rápido en todo!"
+    }
+  }
+  ["9wzv0x35kq6l"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "Raúl B."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(31) "Drakengard 2 playstation 2 ps2 "
+      ["date"]=>
+      string(11) "52680-10-31"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(18) "100 % recomendado "
+    }
+  }
+  ["lqzm3l1qm16v"]=>
+  array(2) {
+    ["name"]=>
+    string(7) "Xavi M."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(17) "Súper star wars "
+      ["date"]=>
+      string(11) "48428-08-23"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(87) "Juego en perfectas condiciones, como nuevo. Vendedor de fiar, un placer tratar con él."
+    }
+  }
+  ["lqzmexl5oyjv"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "Raúl G."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(42) "Street fighter II esp super nintendo snes "
+      ["date"]=>
+      string(11) "50996-08-29"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(74) "Serio y de trato agradable. Productos en perfecto estado. Muy recomendable"
+    }
+  }
+  ["9nz0wv0qr76o"]=>
+  array(2) {
+    ["name"]=>
+    string(9) "Sergio B."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(27) "Mario Party nintendo 64 n64"
+      ["date"]=>
+      string(11) "51974-03-08"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(84) "Perfecto, trato inmejorable y uno de los mejores envios que e recibido. Profesional "
+    }
+  }
+  ["npj9mxl8oo6e"]=>
+  array(2) {
+    ["name"]=>
+    string(10) "Rodrigo R."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(37) "Pequeños gerreros game boy nintendo "
+      ["date"]=>
+      string(11) "51859-03-20"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(32) "Todo bien. Vendedor recomendado."
+    }
+  }
+  ["kmzno79k00jn"]=>
+  array(2) {
+    ["name"]=>
+    string(10) "Atsushi G."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(35) "Earthworm jim súper nintendo snes "
+      ["date"]=>
+      string(11) "51814-12-19"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(25) "Muy majo gracias por todo"
+    }
+  }
+  ["kmznxke442jn"]=>
+  array(2) {
+    ["name"]=>
+    string(7) "Toni L."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(39) "Musashi samurai legend ps2 playstation "
+      ["date"]=>
+      string(11) "51675-01-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(17) "Perfecto. Gracias"
+    }
+  }
+  ["g0j2exe70vjy"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "José B."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(40) "Nes four score nuevo stock nintendo nes "
+      ["date"]=>
+      string(11) "51378-03-01"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(56) "Todo perfecto. Vendedor muy recomendable. Muchas gracias"
+    }
+  }
+  ["4w67xnd3k7jx"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "anime c."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(28) "Súper scope 6 nintendo snes"
+      ["date"]=>
+      string(11) "50731-10-25"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(81) "Compra perfecta, un placer conocer gente asi, de total confianza. Espero repetir."
+    }
+  }
+  ["kp617vo2r265"]=>
+  array(2) {
+    ["name"]=>
+    string(11) "Néstor  J."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(16) "Ilusion Of Time "
+      ["date"]=>
+      string(11) "48192-09-02"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(154) "Perfecto vendedor! De total confianza! Artículo tal y como lo describe! Excelente comunicación! Envío súper rápido y protegido! Repetiré sin dudarlo"
+    }
+  }
+  ["dqjw3yon46on"]=>
+  array(2) {
+    ["name"]=>
+    string(10) "Agustin J."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(36) "Donkey Kong Country 2 Super Nintendo"
+      ["date"]=>
+      string(11) "47231-10-03"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(51) "Todo perfecto! Vendedor super recomendado. Gracias!"
+    }
+  }
+  ["08z81lp77o63"]=>
+  array(2) {
+    ["name"]=>
+    string(10) "Eugenio B."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(23) "Donkey Kong country 2  "
+      ["date"]=>
+      string(11) "48762-10-01"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(60) "Vendedor que ha alcanzado la excelencia. Una pasada en todo
+"
+    }
+  }
+  ["9nz0g0v0rjok"]=>
+  array(2) {
+    ["name"]=>
+    string(12) "Bomberman B."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(39) "Joe & Mac Caveman Ninja Super Nintendo "
+      ["date"]=>
+      string(11) "47218-06-17"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(9) "Excelente"
+    }
+  }
+  ["kp61orpo7dj5"]=>
+  array(2) {
+    ["name"]=>
+    string(8) "Angel L."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(9) "Starwing "
+      ["date"]=>
+      string(11) "47771-12-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(58) "Trato perfecto. Vendedor ejemplar y paciente. Recomendable"
+    }
+  }
+  ["lqzm2q4o1jvm"]=>
+  array(2) {
+    ["name"]=>
+    string(11) "Cristian H."
+    ["reviews"]=>
+    array(4) {
+      ["item"]=>
+      string(42) "Donkey Kong Country 2 Pal España Completo"
+      ["date"]=>
+      string(11) "47393-06-30"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(39) "Vendedor excepcional, muy recomendable."
+    }
+  }
+}

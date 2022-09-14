@@ -1,0 +1,612 @@
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 46
+
+Notice: Undefined index: title in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 46
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 46
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 46
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 46
+
+Notice: Undefined index: comments in C:\Users\benfi\Documents\coincidencias_walla\WS\WallaWS.php on line 46
+array(25) {
+  ["436enp4nv86d"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(22) "the game collector ®."
+      ["item"]=>
+      string(24) "FIFA 97 playstation ps1 "
+      ["date"]=>
+      string(11) "54544-09-05"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(27) "Magnífica, muchas gracias "
+    }
+  }
+  ["kmznlvvgo0jn"]=>
+  array(2) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(12) "DavidGoBa _."
+      ["item"]=>
+      string(24) "Re volt Nintendo 64 N64 "
+      ["date"]=>
+      string(11) "54520-01-01"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(97) "No canso de comprar artículos a este vendedor. Fran siempre súper alas expectativas!!! Brutal! "
+    }
+    [1]=>
+    array(5) {
+      ["name"]=>
+      string(12) "DavidGoBa _."
+      ["item"]=>
+      string(30) "James pond II Sega Mega Drive "
+      ["date"]=>
+      string(11) "54492-10-11"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(133) "Fran es un vendedor TOp!! En este caso, este juego fue un regalo que dio para los subs de mi canal de Twitch! Una pasada!!! Gracias  "
+    }
+  }
+  ["08z818rgd63w"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(13) "MarcotoDev .."
+      ["item"]=>
+      string(24) "Pitball playstation ps1 "
+      ["date"]=>
+      string(11) "54519-10-18"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(128) "Genial! Excelente vendedor, seguramente el más fiable y con artículos retro de mejor calidad. Para comprarle algo cada mes! ;)"
+    }
+  }
+  ["ke65vxxm8gjo"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Danico d."
+      ["item"]=>
+      string(46) "Final Fantasy tactics NUEVO nintendo game boy "
+      ["date"]=>
+      string(11) "54519-09-29"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(29) "Buen vendedor rapido y fuable"
+    }
+  }
+  ["e65vxw3qqmjo"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Placas D."
+      ["item"]=>
+      string(39) "Película Jurassic park precintada vhs "
+      ["date"]=>
+      string(11) "54517-12-24"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(147) "No hace envíos a través del sistema wallapop y eso me inquietó. Decidí fiarme y acerté de lleno. Serio y fiable 100% vendedor muy recomendado "
+    }
+  }
+  ["xpzpwrod5lj3"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(15) "eX-RETRO-24# .."
+      ["item"]=>
+      string(49) "Final Fantasy Tactics precintado game boy advance"
+      ["date"]=>
+      string(11) "54517-07-05"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(151) "No tengo palabras de agradecimiento al señor Fran para decirle que gracias!! El mejor vendedor sin duda de wallapop!! Un crack...
+Productos impecables"
+    }
+  }
+  ["ke65q9ony06o"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Jose L."
+      ["item"]=>
+      string(21) "Nintendo Nes con Mod "
+      ["date"]=>
+      string(11) "54515-04-23"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(47) "Todo perfecto, envío bien protegido y rápido."
+    }
+  }
+  ["v4z4ev527mjy"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(17) "José Andrés  S."
+      ["item"]=>
+      string(27) "Donald Duck Sega Game Gear "
+      ["date"]=>
+      string(11) "54509-02-11"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(59) "Todo un placer! Vendedor muy recomendable, amable y puntual"
+    }
+  }
+  ["kp61oyvkxgj5"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(10) "Beatriz R."
+      ["item"]=>
+      string(46) "Metroid Classics nes Nintendo Game boy advance"
+      ["date"]=>
+      string(11) "54507-06-25"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(83) "Todo perfecto, vendedor 100% recomendable, el mejor vendedor de videojuegos retro. "
+    }
+  }
+  ["dqjwd8wq1qzo"]=>
+  array(10) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(34) "Eternal champions sega Mega Drive "
+      ["date"]=>
+      string(11) "54503-08-17"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+    [1]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(44) "Capcom Collection volumen 2 playstation ps2 "
+      ["date"]=>
+      string(11) "54503-08-17"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+    [2]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(46) "The house Of Dead 2 precintado sega Dreamcast "
+      ["date"]=>
+      string(11) "54503-08-17"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+    [3]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(39) "Hotel Dusk Room precintado nintendo ds "
+      ["date"]=>
+      string(11) "54503-08-17"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+    [4]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(37) "Paper Mario precintado wiiu Nintendo "
+      ["date"]=>
+      string(11) "54503-08-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+    [5]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(26) "Toy story sega Mega Drive "
+      ["date"]=>
+      string(11) "54503-08-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+    [6]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(44) "El guardian de las palabras sega mega Drive "
+      ["date"]=>
+      string(11) "54503-08-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+    [7]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(41) "Tintín in Tibet sega mega Drive Arcadia "
+      ["date"]=>
+      string(11) "54503-08-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+    [8]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(27) "Starflight Sega Mega Drive "
+      ["date"]=>
+      string(11) "54503-08-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+    [9]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Rubén S."
+      ["item"]=>
+      string(25) "Garfield Sega Mega Drive "
+      ["date"]=>
+      string(11) "54503-08-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(53) "Todo perfecto con Fran, el mejor vendedor de Wallapop"
+    }
+  }
+  ["dqjw2l29qwjo"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(8) "Iván O."
+      ["item"]=>
+      string(40) "Wonder Boy III NUEVO Sega Master system "
+      ["date"]=>
+      string(11) "54503-07-01"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      NULL
+    }
+  }
+  ["kmznyn4e26n3"]=>
+  array(2) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(6) "Edu G."
+      ["item"]=>
+      string(33) "Superstar Soccer Sega Mega Drive "
+      ["date"]=>
+      string(11) "54500-10-07"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(24) "Vendedor Top, todo de 10"
+    }
+    [1]=>
+    array(5) {
+      ["name"]=>
+      string(6) "Edu G."
+      ["item"]=>
+      string(37) "Mandos inalámbricos sega Mega Drive "
+      ["date"]=>
+      string(11) "54500-10-07"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(31) "Todo de 10! El mejor vendedor, "
+    }
+  }
+  ["w673lexvv9jx"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Juan G."
+      ["item"]=>
+      string(29) "Sunsetriders sega mega Drive "
+      ["date"]=>
+      string(11) "54500-07-11"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(65) "Un placer hacer negocios con Fran. Todo impecable, como siempre. "
+    }
+  }
+  ["8ejkp0xvrpzx"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(4) "Luis"
+      ["item"]=>
+      string(48) "Final Fantasy tactics Nintendo game boy advance "
+      ["date"]=>
+      string(11) "54500-04-18"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(41) "Todo genial, comunicación y puntualidad "
+    }
+  }
+  ["7v6g0x0m9lje"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(13) "Window xp  M."
+      ["item"]=>
+      string(30) "Nuclear Strike 64 nintendo n64"
+      ["date"]=>
+      string(11) "54500-04-04"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(45) "Estupendo el género y la atención. Gracias "
+    }
+  }
+  ["8ejk9xpyw16x"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(8) "Pedro C."
+      ["item"]=>
+      NULL
+      ["date"]=>
+      string(11) "54499-02-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(149) "Perfecto!! Como siempre con el crack del retro, buen amigo y buenos momentos, enhorabuena por tu trayectoria y las 5000 valoraciones bien merecidas. "
+    }
+  }
+  ["9wzvedkwrjlm"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(8) "Mikel N."
+      ["item"]=>
+      string(25) "Defcon 5 playstation ps1 "
+      ["date"]=>
+      string(11) "54498-11-02"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(14) "Todo perfecto!"
+    }
+  }
+  ["evjr8exw8zk8"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Ivan N."
+      ["item"]=>
+      string(49) " Legend Of Zelda skyward precintado nintendo wii "
+      ["date"]=>
+      string(11) "54498-09-08"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(6) "Genial"
+    }
+  }
+  ["qnzxqyyep162"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(9) "Sergio R."
+      ["item"]=>
+      string(29) "Banjo kazooie Nintendo 64 n64"
+      ["date"]=>
+      string(11) "54498-08-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(54) "Absolutamente perfecto, el mejor vendedor de wallapop."
+    }
+  }
+  ["v6g4mg10nl6e"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(10) "Antonio J."
+      ["item"]=>
+      string(39) "Pack Spectrum Nuevo precintado Dinamic "
+      ["date"]=>
+      string(11) "54498-01-16"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(76) "Producto perfecto y muy bien empaquetado. Vendedor 100 por 100 recomendable "
+    }
+  }
+  ["ke65v81my2jo"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(13) "Alejandro  S."
+      ["item"]=>
+      string(29) "Nintendo Game boy micro rosa "
+      ["date"]=>
+      string(11) "54495-08-24"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(71) "Todo perfecto, trato espléndido, y muy bien envuelto, recomendado 100%"
+    }
+  }
+  ["k3zl8glrp6xd"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Jose C."
+      ["item"]=>
+      string(37) "Earthworm Jim 2 Súper Nintendo snes "
+      ["date"]=>
+      string(11) "54493-01-13"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(54) "Todo perfecto con Fran. Profesional y fiabilidad 100%."
+    }
+  }
+  ["wzvyl421q4zl"]=>
+  array(1) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Luis S."
+      ["item"]=>
+      string(29) "Metroid II Nintendo Game boy "
+      ["date"]=>
+      string(11) "54487-07-14"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(32) "Todo perfecto, mil gracias Fran!"
+    }
+  }
+  ["owzyxrwxyv65"]=>
+  array(2) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Fran P."
+      ["item"]=>
+      string(50) "Súper Mario Bros 3 Nintendo Nes primera edición "
+      ["date"]=>
+      string(11) "54478-10-05"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(40) "Muy bien, todo perfecto!!! 
+Excelente!!!"
+    }
+    [1]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Fran P."
+      ["item"]=>
+      string(45) "Súper Mario World súper Nintendo snes Erbe "
+      ["date"]=>
+      string(11) "54478-10-04"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      string(39) "Muy bien, todo perfecto!!!
+Excelente!!!"
+    }
+  }
+  ["xpzpgyp0n9z3"]=>
+  array(4) {
+    [0]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Ione H."
+      ["item"]=>
+      string(22) "Sonic Sega Mega Drive "
+      ["date"]=>
+      string(11) "54476-08-12"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      NULL
+    }
+    [1]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Ione H."
+      ["item"]=>
+      string(24) "Menacer sega mega Drive "
+      ["date"]=>
+      string(11) "54476-08-12"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      NULL
+    }
+    [2]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Ione H."
+      ["item"]=>
+      string(37) "El libro de la selva sega Mega Drive "
+      ["date"]=>
+      string(11) "54476-08-12"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      NULL
+    }
+    [3]=>
+    array(5) {
+      ["name"]=>
+      string(7) "Ione H."
+      ["item"]=>
+      string(27) "Theme Park sega Mega Drive "
+      ["date"]=>
+      string(11) "54476-08-12"
+      ["scoring"]=>
+      int(100)
+      ["comments"]=>
+      NULL
+    }
+  }
+}
