@@ -1,4 +1,5 @@
 <?php
+	//anotacion de Daniel Arencibia
     class CurlUtil {
         public static function sendRequest($url) {
             $ch = curl_init();
