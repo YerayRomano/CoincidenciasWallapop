@@ -1,5 +1,5 @@
 <?php
-    //comienzo
+    //comienzo de todo
     require dirname(__FILE__) . '/WS/WallaWS.php';
     
     $base_url = "https://{domain}/api/v3/users/{usr}/reviews?init=";
